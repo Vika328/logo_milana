@@ -1,0 +1,56 @@
+<html>
+    <head>
+        <title>Логотипи</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <header>
+            <img src="https://i.pinimg.com/control/564x/f8/6c/08/f86c08558151ddb81fb0d8d88975887e.jpg" width="60px" height="50px">
+        
+            <a class="button" href="">логотипи</a>
+        </header>
+        <nav>
+            <a class="nav-link" href="">Каталог</a>
+            <a class="nav-link" href="">Оптом</a>
+            <a class="nav-link" href="">Доставка</a>
+            <a class="nav-link" href="">Повернення товару</a>
+        </nav>
+        <main>
+            <h1>Логотипи</h1>
+            <section class="info">
+                <article>
+                    <h2></h2>
+                    <img src="https://i.pinimg.com/control/564x/fa/42/59/fa4259ce3c28dfeb47b9cedac3d1c68e.jpg" width="400px" height="300px"/>
+                    <p>
+                
+                    </p>
+                    <a class="article-but" href="">Детальніше</a>
+                </article>
+                <article>
+                    <h2></h2>
+                    <img src="https://i.pinimg.com/control/236x/80/25/ed/8025edbeeb42b882f4263456cce3058d.jpg" width="330px" height="300px"/>
+                    <p></p>
+                    <a class="article-but" href="">Детальніше</a>
+                </article>
+                <article>
+                    <h2></h2>
+                    <img src="https://i.pinimg.com/control/236x/4e/a9/3a/4ea93a776175a42a227e1b957779cd38.jpg" width="400px" height="300px"/>
+                    <p></p>
+                    <a class="article-but" href="">Детальніше</a>
+                </article>
+                <article>
+                   
+                    <img src="https://i.pinimg.com/control/236x/5c/8c/e2/5c8ce2552521c859f4493ecd57d52282.jpg" width="400px" height="400px"/>
+                    
+                    <a class="article-but" href="">Детальніше</a>
+                </article>
+            </section>
+            <img src="https://i.pinimg.com/control/564x/03/2d/d8/032dd833431aa6e42ddf8f8ac966e9ac.jpg" width="960" height="270"/>
+        </main>
+        <footer>
+            <a href=""><img src="/uploads/2021/02/icon-set-1142000_1280%201_0_1613586391.png" width="80px" height="80px"></a>
+            <a href=""><img src="/uploads/2021/02/instagram-3288419_1280%201_0_1613586391.png" width="80px" height="80px"></a>
+            <p><b>Напиши - отримай <br/> промокод!</b></p> 
+        </footer>
+    </body>
+</html>
